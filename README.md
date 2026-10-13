@@ -1,5 +1,4 @@
 # Infix-to-Postfix-Notation
-# Infix to Postfix Conversion Using a Stack
 
 ## 1. Project Overview
 This project focuses on converting arithmetic expressions from Infix Notation to Postfix Notation using a stack data structure. The algorithm scans the expression from left to right and arranges operators according to precedence, associativity, and parentheses.
